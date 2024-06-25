@@ -9,6 +9,7 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$nav = $('#nav');
+		$main_articles = $main.children('article');
 
 	// Breakpoints.
 		breakpoints({
