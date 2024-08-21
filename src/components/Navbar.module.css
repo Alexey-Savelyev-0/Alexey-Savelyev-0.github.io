@@ -1,0 +1,11 @@
+.icon {
+    margin: 0 3px;
+    -webkit-transition: 0.2s ease-out;
+    -moz-transition: 0.2s ease-out;
+    transition: 0.2s ease-out;
+    color:#9F1239;
+}
+
+.icon:hover {
+    scale: 1.2;
+}
