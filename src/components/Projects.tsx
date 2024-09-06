@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
 import Card from "./Card";
-import { FaJava } from "react-icons/fa6";
+import { FaJava, FaPython } from "react-icons/fa6";
 
 const data: Array<Project> = [
-    { title: "Project", link: null, description: "Test", icons: [FaJava] },
-    { title: "Project", link: null, description: "Test", icons: [FaJava] },
-    { title: "Project", link: null, description: "Test", icons: [FaJava] },
-    { title: "Project", link: null, description: "Test", icons: [FaJava] },
+    { title: "Propaganda Detection Tool", link: null, description: "Test", icons: [FaPython] },
+    { title: "Outlier Detection Tool", link: null, description: "Test", icons: [FaJava] },
+    { title: "Adveserial Connect 4 AI", link: null, description: "Test", icons: [FaJava] },
+    { title: "Emulator", link: null, description: "Test", icons: [FaJava] },
     { title: "Project", link: null, description: "Test", icons: [FaJava] },
     { title: "Project", link: null, description: "Test", icons: [FaJava] },
     { title: "Project", link: null, description: "Test", icons: [FaJava] },
